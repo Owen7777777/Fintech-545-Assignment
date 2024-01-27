@@ -1,3 +1,3 @@
 # Fintech-545-Assignment
 
-This is a Fintech 525 Assignment, and there are several project here
+This is a Fintech 545 Assignment, and there are several projects here
